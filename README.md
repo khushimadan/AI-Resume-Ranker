@@ -1,1 +1,1 @@
-# AI-Resume-Ranker
+# AI Resume Ranker
